@@ -1,0 +1,16 @@
+{
+    "id": "382bb5c0-10e7-4e58-b900-46d5547a45e1",
+    "version": "0.0.1",
+    "requiredApiVersion": "^1.44.0",
+    "iconFile": "icon.png",
+    "author": {
+        "name": "gaga",
+        "homepage": "babba",
+        "support": "abah"
+    },
+    "name": "Oauth",
+    "nameSlug": "oauth",
+    "classFile": "OauthApp.ts",
+    "description": "No desc",
+    "implements": []
+}
